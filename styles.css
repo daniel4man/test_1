@@ -15,6 +15,7 @@ body {
   width: 100%;
   max-width: 600px;
   height: 100%;
+  margin: 0 auto;
 }
 
 h1 {
@@ -36,11 +37,10 @@ h1 {
 }
 
 .bubble {
-  padding: 0.75rem 1rem;
-  margin: 0.5rem 0;
-  border-radius: 12px;
-  max-width: 80%;
+  font-family: "Courier New", monospace; /* Optional: more readable options */
+  white-space: pre-wrap; /* Keeps line breaks */
 }
+
 
 .bubble.ai {
   background-color: #e0f0ff;

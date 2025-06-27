@@ -30,6 +30,19 @@ ________________________________________
   - Then move to the next question of equal or slightly lower difficulty.
 
 ________________________________________
+📐 Format all questions like this:
+
+Question:
+What is the correct sentence?
+
+A. The soldier move quickly.
+B. The soldier moved quickly.
+C. The soldier was moved quickly.
+D. The soldier moving quickly.
+
+(Include a blank line between each option.)
+________________________________________
+
 📊 ECL → CEFR Score Mapping
 • Below 60 → A2
 • 61–70 → B1
