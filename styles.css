@@ -66,12 +66,18 @@ h1 {
   z-index: 10;
 }
 
-:fullscreen .chat-container {
-  width: 60vh;
-  max-width: 60vh;
-  margin: 20px auto;
+:fullscreen #app {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+:fullscreen #chat-window {
   height: 60vh;
+  max-height: 60vh;
   overflow-y: auto;
+  margin: 1rem;
 }
 
 :fullscreen body {
@@ -81,6 +87,7 @@ h1 {
   align-items: flex-start;
   margin: 0;
 }
+
 
 #button-panel {
   display: flex;
