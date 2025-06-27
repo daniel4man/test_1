@@ -1,0 +1,89 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+  height: 100%;
+}
+
+h1 {
+  text-align: center;
+  padding: 1rem;
+  background-color: #004080;
+  color: white;
+  margin: 0;
+}
+
+#chat-window {
+  height: 60vh;
+  overflow-y: auto;
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 1rem;
+}
+
+.bubble {
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  border-radius: 12px;
+  max-width: 80%;
+}
+
+.bubble.ai {
+  background-color: #e0f0ff;
+  align-self: flex-start;
+}
+
+.bubble.user {
+  background-color: #d1ffd1;
+  align-self: flex-end;
+  text-align: right;
+}
+
+#fullscreen-toggle {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background-color: #0066cc;
+  color: white;
+  border: none;
+  padding: 0.4rem 1rem;
+  border-radius: 5px;
+  cursor: pointer;
+  z-index: 10;
+}
+
+#button-panel {
+  display: flex;
+  justify-content: space-around;
+  padding: 1rem;
+  background-color: #f0f0f0;
+  border-top: 1px solid #ccc;
+}
+
+button {
+  font-size: 1.2rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #004080;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0066cc;
+}
