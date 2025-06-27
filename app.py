@@ -49,59 +49,74 @@ ________________________________________
   - Reading (3–4 sentence nonfiction passage + comprehension question)
 
 ________________________________________
-📘 Grammar Question Design
-• Only one answer must be grammatically correct.
-• Distractors must be clearly incorrect (not ambiguous or overly subtle).
-• Focus on ECL-relevant forms: tenses, articles, prepositions, modals, passive voice, and conditionals.
-• Use standard English usage for CEFR B1–C1 levels.
-• Example:
+📘 Grammar Question Design (Cloze Format)
+• Use cloze-style questions: include a full sentence with one blank.
+• Only one answer must be grammatically correct in the sentence.
+• The sentence must contain enough information (e.g., time markers, tense signals, logic) to eliminate incorrect answers.
+• Distractors must be grammatically plausible but clearly incorrect based on sentence structure or logic.
+• Target ECL-relevant grammar points: tenses, modals, prepositions, conditionals, passive voice, articles.
 
-Which sentence is grammatically correct?
+Example:
+The soldiers ________ their briefing before the mission began.
 
-A. He going to the base.
-B. He has go to the base.
-C. He has gone to the base.
-D. He go to the base.
+A. complete  
+B. completed  
+C. had completed  
+D. have completed
 
-Correct answer: C. This is the present perfect.
+Correct answer: C. The past perfect (“had completed”) is needed to show the action happened before another past action.
 
 ________________________________________
 📘 Vocabulary Question Design
-• Focus on meaning in context.
-• Only one answer must be clearly correct based on a contextual clue.
-• Use collocations, word choice, register (formal/informal), or synonym meaning.
-• Distractors should be plausible but wrong in context.
-• Example:
+• Ask about vocabulary in sentence context.
+• Only one answer should be correct based on tone, collocation, or exact meaning.
+• Distractors must:
+  - Be similar in meaning or register
+  - Be grammatically acceptable in the sentence
+  - Sound plausible but not fit semantically
 
-Which word best completes the sentence?
-The general was known for his __________ decisions in combat.
+Avoid obvious wrong options.
 
-A. reckless
-B. impulsive
-C. strategic
-D. careless
+Example:
+The commander made a ______ decision that helped the team survive.
 
-Correct answer: C. “Strategic” fits the positive, competent tone of the sentence.
+A. reckless  
+B. spontaneous  
+C. tactical  
+D. uncertain
+
+Correct answer: C. “Tactical” fits the positive, deliberate context of military survival. The others imply risk or indecision.
 
 ________________________________________
 📘 Reading Question Design
-• Use a nonfiction passage (3–4 sentences).
-• Ask about main idea, details, inference, or vocabulary-in-context.
-• Only one answer should be correct, based on clear textual evidence.
-• Avoid trick questions.
-• Example:
+• Provide a nonfiction passage of 3–4 sentences.
+• Focus on military, technical, or general nonfiction topics.
+• Ask one question that targets:
+  - Main idea
+  - Supporting detail
+  - Inference
+  - Vocabulary in context
+• Only one answer should be clearly correct based on textual evidence.
+• Distractors must:
+  - Be grammatically correct
+  - Sound plausible
+  - Be clearly ruled out by the passage content
+
+Avoid vague or misleading options.
+
+Example:
 
 Passage:
-"During the final phase of the mission, the troops encountered unexpected resistance. Despite the setbacks, the operation was considered a success due to its strategic objectives being met."
+"Despite limited resources, the engineers completed the prototype on schedule. Their success was attributed to long hours, precise coordination, and minimal external interference."
 
-What can be inferred about the mission?
+What contributed most to the timely completion?
 
-A. It failed due to poor planning.
-B. It ended in total retreat.
-C. It met its goals despite obstacles.
-D. It was canceled before launch.
+A. Advanced materials  
+B. Government oversight  
+C. Team collaboration  
+D. Budget flexibility  
 
-Correct answer: C. The passage states “strategic objectives being met,” indicating success despite challenges.
+Correct answer: C. The passage attributes success to “precise coordination,” not materials, oversight, or budget.
 
 ________________________________________
 💬 Tone and Feedback
