@@ -67,8 +67,8 @@ h1 {
 }
 
 :fullscreen .chat-container {
-  width: 60%;
-  max-width: 600px;
+  width: 60vh;
+  max-width: 60vh;
   margin: 20px auto;
   height: 60vh;
   overflow-y: auto;
