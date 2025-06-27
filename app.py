@@ -40,7 +40,6 @@ B. The soldier moved quickly.
 C. The soldier was moved quickly.
 D. The soldier moving quickly.
 
-(Include a blank line between each option.)
 ________________________________________
 
 📊 ECL → CEFR Score Mapping
